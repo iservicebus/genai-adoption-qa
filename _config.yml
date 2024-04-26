@@ -1,0 +1,38 @@
+# Cohesionet!
+#
+title: Enterprise GenAI Adoption QA
+description: >- 
+  Enterprise Generative AI (GenAI) Adoption Q&A serves as a comprehensive knowledge base for enterprises to adopt large language models (LLMs) and develop GenAI applications
+
+url: "https://iservicebus.github.io/genai-adoption-qa" 
+baseurl: "" # the name of your github repo
+
+
+# use false to turn off any social media links
+twitter: https://twitter.com/jingnanzhou
+facebook: false
+instagram: false
+github: https://github.com/iservicebus
+linkedin: https://www.linkedin.com/in/jingnanzhou/
+
+
+medium: false
+google-scholar: false
+email: contact@cohesionet.com
+
+author: Jingnan Zhou
+author-bio: Executive / entrepreneur / coder  # change to false to hide
+
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+# Note: the main Just the Docs site does *not* use Google Analytics.
+ga_tracking: G-PR6HBQHGWC
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+
+aux_links:
+  Cohesionet:
+    - 'https://cohesionet.com'
+
+theme: just-the-docs
+
