@@ -1,6 +1,6 @@
 # Cohesionet!
 #
-title: Enterprise GenAI Adoption QA
+title: GenAI Adoption QA
 description: >- 
   Enterprise Generative AI (GenAI) Adoption Q&A serves as a comprehensive knowledge base for enterprises to adopt large language models (LLMs) and develop GenAI applications
 
@@ -31,8 +31,16 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 
 aux_links:
+  GenAI QA:
+    - 'https://github.com/jingnanzhou/genai-adoption-qa/discussions'
   Cohesionet:
     - 'https://cohesionet.com'
+
+# External navigation links
+nav_external_links:
+  - title: Ask Adoption Questions
+    url: https://github.com/jingnanzhou/genai-adoption-qa/discussions
+
 
 theme: just-the-docs
 
