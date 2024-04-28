@@ -32,14 +32,14 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 aux_links:
   GenAI QA:
-    - 'https://github.com/jingnanzhou/genai-adoption-qa/discussions'
+    - 'https://github.com/iservicebus/genai-adoption-qa/discussions'
   Cohesionet:
     - 'https://cohesionet.com'
 
 # External navigation links
 nav_external_links:
   - title: Ask Adoption Questions
-    url: https://github.com/jingnanzhou/genai-adoption-qa/discussions
+    url: https://github.com/iservicebus/genai-adoption-qa/discussions
 
 
 theme: just-the-docs
