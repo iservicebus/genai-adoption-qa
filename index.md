@@ -14,7 +14,7 @@ Enterprise Generative AI (GenAI) Adoption Q&A serves as a comprehensive knowledg
 - **Deployment Strategy**: This explores various deployment options for production environments, ensuring scalability and efficiency.
 - **GenAI Application Development**: This section delves into considerations for developing applications that leverage LLM capabilities.
 
-Additionally, the platform offers a [dedicated discussion forum](https://github.com/jingnanzhou/genai-adoption-qa/discussions) to foster collaboration and knowledge sharing among GenAI adopters. This forum allows enterprise users to:
+Additionally, the platform offers a [dedicated discussion forum](https://github.com/iservicebus/genai-adoption-qa/discussions) to foster collaboration and knowledge sharing among GenAI adopters. This forum allows enterprise users to:
 
 Share experiences and best practices.
 Seek guidance on specific challenges.
